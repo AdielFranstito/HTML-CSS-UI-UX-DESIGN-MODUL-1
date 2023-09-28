@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: gold;
+  outline: 1px solid black;
+  border: 1px solid gold;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+th {
+  padding: 10px;
+  background-color: gold;
+  color: black;
+}
